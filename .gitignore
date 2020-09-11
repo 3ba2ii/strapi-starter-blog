@@ -10,13 +10,11 @@ Icon
 .Trashes
 ._*
 
-
 ############################
 # Linux
 ############################
 
 *~
-
 
 ############################
 # Windows
@@ -30,7 +28,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
 
 ############################
 # Packages
@@ -59,7 +56,6 @@ $RECYCLE.BIN/
 *.out
 *.pid
 
-
 ############################
 # Logs and databases
 ############################
@@ -69,7 +65,6 @@ $RECYCLE.BIN/
 *.sql
 *.sqlite
 *.sqlite3
-
 
 ############################
 # Misc.
@@ -94,7 +89,6 @@ results
 node_modules
 .node_history
 
-
 ############################
 # Tests
 ############################
@@ -109,3 +103,5 @@ coverage
 exports
 .cache
 build
+
+package-lock.json
